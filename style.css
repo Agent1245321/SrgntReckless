@@ -45,3 +45,19 @@ a {
 	font-size: 22px;
 	font-family: Times New Roman;
 }
+
+#bib {
+	display: block;
+	margin: 20 auto;
+	text-align: center;
+}
+
+#btp {
+	display: block;
+	margin: 20 auto;
+	text-align: center;
+}
+
+h2 {
+	margin: 50 auto 0 auto;
+}
