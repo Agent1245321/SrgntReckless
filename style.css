@@ -39,3 +39,9 @@ span {
 	margin: 0 30px;
 	font-size: 30px;
 }
+
+a {
+	margin: 10 auto;
+	font-size: 22px;
+	font-family: Times New Roman;
+}
